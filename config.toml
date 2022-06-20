@@ -4,7 +4,7 @@ enable = true
 enable_in_github_action = true
 in_safe_mode = false
 name = "默认账号名-1"
-login_mode = "qr_login"
+login_mode = "auto_login"
 cannot_bind_dnf = false
 drift_send_qq_list = []
 dnf_13_send_qq_list = []
@@ -282,8 +282,8 @@ changelog_page = "https://github.com/fzls/djc_helper/blob/master/CHANGELOG.MD"
 github_mirror_sites = [ "api.mtr.pub", "gh.gcdn.mirr.one", "hub.0z.gs", "hub.fastgit.xyz",]
 auto_updater_dlc_purchase_url = "https://www.kami.vip/purchasing?link=auto-updater"
 pay_by_month_purchase_url = "https://www.kami.vip/purchasing?link=pay-by-month"
-netdisk_link = "https://fzls.lanzouw.com/s/djc-helper"
-netdisk_link_for_report = "https://fzls.lanzoui.com/s/djc-helper"
+netdisk_link = "https://fzls.lanzoup.com/s/djc-helper"
+netdisk_link_for_report = "https://fzls.lanzouw.com/s/djc-helper"
 qq_group = 791343073
 auto_update_on_start = false
 allow_only_one_instance = true
